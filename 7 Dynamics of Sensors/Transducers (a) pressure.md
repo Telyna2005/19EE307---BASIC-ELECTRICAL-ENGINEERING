@@ -1,5 +1,5 @@
 ## Exp. No. 7
-**Date:**  
+**Date:**  06.10.2025
 
 ## Dynamics of Sensors/Transducers (a) pressure 
 
@@ -110,12 +110,16 @@ Effect of ambient conditions
 
 # Circuit Diagram in software
 
-
+<img width="1435" height="797" alt="image" src="https://github.com/user-attachments/assets/0f702cf1-d2fc-428c-9c25-7072347b252f" />
+<img width="1457" height="795" alt="image" src="https://github.com/user-attachments/assets/bf1bb4c2-c8f4-42ad-b39d-768380de108b" />
+<img width="1483" height="803" alt="image" src="https://github.com/user-attachments/assets/b557c10f-a62e-4b9a-8463-afab48f6f39f" />
 
 # Output Graph / Tabulation
 
-
-# Sample images
+![bee exp 7 graph 1](https://github.com/user-attachments/assets/3b46a0ca-3722-493c-a120-2afe1fd7f594)
+![bee exp 7 graph 2](https://github.com/user-attachments/assets/2edb060f-1bc2-465f-ad09-f8fee7083563)
+![bee exp 7 graph 3](https://github.com/user-attachments/assets/7c2f40ef-2544-4b2d-88f4-47ed99510e1b)
 
 
 # Result
+![bee exp 7 result](https://github.com/user-attachments/assets/fba058b6-db84-4848-8e78-3b4d25c83f63)
