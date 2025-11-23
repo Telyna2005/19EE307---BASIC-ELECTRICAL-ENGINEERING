@@ -1,7 +1,7 @@
-## Exp. No. 6
-**Date:**  
+## Exp. No. 6 Speed Control of slip-ring Induction motor
 
-## Speed Control of slip-ring Induction motor
+**Date:**  29.09.2025
+
 
 ## link
 https://ems-iitr.vlabs.ac.in/exp/speed-control-slip-ring/index.html 
@@ -17,12 +17,14 @@ To perform the speed control test on slip ring induction motor by rotor resistan
 
 # Circuit Diagram in software
 
+<img width="1315" height="604" alt="connec" src="https://github.com/user-attachments/assets/138f4c5c-305f-487f-886b-0cf37b40aba7" />
 
 
 # Output Graph / Tabulation
 
-
-# Sample images
+![bee exp 6 tab](https://github.com/user-attachments/assets/5145960b-3e1f-40a0-a54f-a8ecc887f7c1)
 
 
 # Result
+
+![bee exp 6 result](https://github.com/user-attachments/assets/44ae01a2-afb9-4025-a95f-728be916dcb4)
